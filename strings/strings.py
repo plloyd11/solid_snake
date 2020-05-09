@@ -4,7 +4,6 @@ a super sick
 long ass
 string
 """
-
 print(long_string)
 
 first_name = "Pete"
